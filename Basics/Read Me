@@ -1,0 +1,26 @@
+This folder contains basic C programs designed to understand the fundamental
+syntax, structure, and input/output operations of the C programming language.
+---
+📌 Programs Included
+- Hello World program
+- Basic input and output programs
+- Simple arithmetic operations
+- Beginner-level logic building exercises
+---
+🎯 Purpose of This Folder
+- Learn the basic structure of a C program
+- Understand how input and output work in C
+- Build confidence in writing simple C programs
+- Prepare a strong base for advanced topics
+---
+🧠 Skills Practiced
+- Writing syntactically correct C programs
+- Using `printf` and `scanf`
+- Understanding program flow
+- Logical thinking
+---
+🚀 Next Steps
+Programs in this folder will later be expanded to include:
+- User input validation
+- More arithmetic operations
+- Basic logic-based problems
