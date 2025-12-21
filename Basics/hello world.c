@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     printf("Hello, World!\n"); //Print Function = printf
     return 0;
     getch ();
 }
+
